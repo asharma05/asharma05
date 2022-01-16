@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asharma05
+- 👋 Hi, I’m Akanksha Sharma @asharma05
 - 👀 I’m interested in Python,Quantum Computing...
 - 🌱 I’m currently learning Github, Python, Quantum Computing , Circle CI CICD
 - 💞️ I’m looking to collaborate on my learnng projects for now.
